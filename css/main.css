@@ -231,7 +231,7 @@ button {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 35px;
-  width: 960px;
+  width: 1440px;
   height: 350px;
   background: url("../img/header-bg.jpeg");
   background-size: cover;
@@ -445,9 +445,11 @@ button {
 .commentaire{
   color:#e8a27d;
   border-left:solid grey;
+    
 }
 .author{
-  color:#1a1a1a; 
+  color:#1a1a1a;
+  
 }
 .colonnes{
   display:flex;
@@ -456,7 +458,12 @@ button {
 .colonne-image {
   min-width: 560px;
 }
-
+.chapo{
+ min-width: 600px;
+}
+.news-texte{
+  
+}
 /**
 * -----------
 * Trumps
