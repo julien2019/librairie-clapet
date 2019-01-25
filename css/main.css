@@ -439,6 +439,14 @@ button {
   grid-column: span 1;
 }
 
+.citation{
+  color:#e8a27d
+}
+.commentaire{
+  color:#1a1a1a;
+  border-left:solid grey;
+}
+
 /**
 * -----------
 * Trumps
