@@ -202,6 +202,11 @@ button {
   font-size: 25px;
 }
 
+.separator {
+  width: 193.2px;
+  height: 51.8px;
+}
+
 .full-width {
   display: block;
   width: 100%;
