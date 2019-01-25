@@ -441,7 +441,7 @@ button {
 
 .citation{
   color:#1a1a1a;
-}
+  }
 .commentaire{
   color:#e8a27d;
   border-left:solid grey;
@@ -449,6 +449,14 @@ button {
 .author{
   color:#1a1a1a; 
 }
+.colonnes{
+  display:flex;
+}
+
+.colonne-image {
+  min-width: 560px;
+}
+
 /**
 * -----------
 * Trumps
