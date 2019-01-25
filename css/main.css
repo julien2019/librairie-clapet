@@ -440,13 +440,15 @@ button {
 }
 
 .citation{
-  color:#e8a27d
+  color:#1a1a1a;
 }
 .commentaire{
-  color:#1a1a1a;
+  color:#e8a27d;
   border-left:solid grey;
 }
-
+.author{
+  color:#1a1a1a; 
+}
 /**
 * -----------
 * Trumps
