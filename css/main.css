@@ -97,7 +97,7 @@ button {
   margin: auto;
   padding: 0 15px;
   width: 960px;
-  max-width: 100%;
+  
   text-align: center;
 }
 
@@ -457,9 +457,7 @@ button {
 .colonne-image {
   min-width: 560px;
 }
-.chapo{
- min-width: 600px;
-}
+
 .news-texte{
   
 }
