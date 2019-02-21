@@ -443,6 +443,16 @@ button {
   margin-bottom: 35px;
 }
 
+.news-big {
+  grid-column:span 4;
+}
+
+.news-medium {
+  grid-column:span 2;
+}
+.news-big .news__link {
+  display: flex;
+}
 
 .citation{
   color:#1a1a1a;
