@@ -370,13 +370,10 @@ button {
 .news__thumbnail {
   margin-bottom: 10px;
   filter: grayscale(0);
-  min-width: 290px;
 }
 
 .news__image {
   display: block;
-  height: 178.77px;
-  width: 286.66px;
 }
 
 .news__date {
@@ -460,7 +457,6 @@ hr{
 
 .news-big {
   grid-column:span 4;
-  border-right: 
 }
 
 .news-medium {
@@ -468,6 +464,11 @@ hr{
 }
 .news-big .news__link {
   display: flex;
+}
+
+.news-big .news__thumbnail{
+  margin-right: 40px;
+  min-width: 290px;
 }
 
 .citation{
