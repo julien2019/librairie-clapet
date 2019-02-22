@@ -401,8 +401,8 @@ button {
   text-align:left;
 }
 
-.hr{
-  color: grey;
+hr{
+  background-color: grey;
 }
 .page-list .news {
   margin: 0 auto 20px auto;
@@ -460,6 +460,7 @@ button {
 
 .news-big {
   grid-column:span 4;
+  border-right: 
 }
 
 .news-medium {
