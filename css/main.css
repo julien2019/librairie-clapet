@@ -232,7 +232,7 @@ button {
   margin-bottom: 35px;
 
   height: 350px;
-  background: url("../img/header-bg.jpeg");
+  background: url("../img/background.png");
   background-size: cover;
   background-position: center bottom;
   overflow: hidden;
@@ -474,9 +474,6 @@ button {
   min-width: 560px;
 }
 
-.news-texte{
-  
-}
 /**
 * -----------
 * Trumps
