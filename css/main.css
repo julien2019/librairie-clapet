@@ -162,6 +162,7 @@ button {
 .link-block {
   display: block;
   color: inherit;
+ 
 }
 .link-block:hover {
   text-decoration: none;
@@ -368,11 +369,13 @@ button {
 .news__thumbnail {
   margin-bottom: 10px;
   filter: grayscale(0);
+  min-width: 290px;
 }
 
 .news__image {
   display: block;
-  width: 100%;
+  height: 178.77px;
+  width: 286.66px;
 }
 
 .news__date {
