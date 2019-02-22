@@ -490,7 +490,9 @@ hr{
 .colonne-image {
   min-width: 560px;
 }
-
+.colonne-imageactu{
+  min-width: 310px;
+}
 /**
 * -----------
 * Trumps
