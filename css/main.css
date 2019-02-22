@@ -401,6 +401,9 @@ button {
   text-align:left;
 }
 
+.hr{
+  color: grey;
+}
 .page-list .news {
   margin: 0 auto 20px auto;
   border-bottom: 1px solid #b0b0c5;
