@@ -98,8 +98,6 @@ button {
   margin: auto;
   padding: 0 15px;
   width: 960px;
-  
-  text-align: center;
 }
 
 .text-container {
@@ -490,9 +488,12 @@ hr{
 .colonne-image {
   min-width: 560px;
 }
+
+.colonne-imageactu1,
 .colonne-imageactu{
   min-width: 310px;
 }
+
 /**
 * -----------
 * Trumps
