@@ -424,6 +424,7 @@ button {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto;
   margin-bottom: 35px;
+  margin-top: 20px;
 }
 
 .news-list .news-list__news--main {
@@ -432,8 +433,12 @@ button {
 
 .news-list__news {
   grid-column: span 1;
-}
+  padding-bottom: 20px;
 
+}
+.news-bordure {
+  border-bottom: 1px solid grey;
+}
 
 .news-list-4 {
   display: grid;
